@@ -1,0 +1,9 @@
+{
+  "taglens.overlay.title": "Tag Lens",
+  "taglens.overlay.occupied": "%s occupied slots",
+  "taglens.overlay.no_items": "This inventory is empty",
+  "taglens.overlay.no_tags": "No item tags found",
+  "taglens.overlay.copy_hint": "Click a tag to copy it",
+  "taglens.overlay.copied": "Copied %s",
+  "taglens.overlay.range": "%s–%s of %s"
+}
